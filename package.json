@@ -1,0 +1,27 @@
+{
+    "name": "totem.group.typography",
+    "version": "0.1.0",
+    "description": "Typography examples & snippets for Totem",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/toolbarthomas/totem.group.typography.git"
+    },
+    "keywords": [
+        "totem",
+        "totem-module",
+        "button"
+    ],
+    "author": "Thomas van der Velde <contact@toolbarthomas.net>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/toolbarthomas/totem.group.typography/issues"
+    },
+    "homepage": "https://github.com/toolbarthomas/totem.group.typography#readme",
+    "dependencies": {
+        "totem.template.typography": "^0.1.0",
+        "totem.module.code-block": "^0.2.0"
+    }
+}
