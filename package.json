@@ -1,6 +1,6 @@
 {
     "name": "totem.group.typography",
-    "version": "0.3.0",
+    "version": "0.5.0",
     "description": "Typography examples & snippets for Totem",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
     },
     "homepage": "https://github.com/toolbarthomas/totem.group.typography#readme",
     "dependencies": {
-        "totem.template.typography": "^0.2.0",
-        "totem.module.code-block": "^0.2.0"
+        "totem.template.typography": "^0.5.0",
+        "totem.module.code-block": "^0.8.0"
     }
 }
